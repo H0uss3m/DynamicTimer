@@ -1,0 +1,9 @@
+.TimerContainer{
+    font-size: 4em;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+    width: 105%;
+    margin-left: 3%;
+}

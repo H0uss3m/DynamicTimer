@@ -1,0 +1,14 @@
+h3{
+    color:grey;
+    opacity:0.4;
+}
+p{
+    font-size:35px;
+    margin-left: 25%;
+}
+.Timer {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin-left: 25%;
+}
